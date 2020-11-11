@@ -1,6 +1,6 @@
 # Papachristos Christos
 
-![Papachristos Christos](/image/2.jpg)
+![Image of Papaxhritos](https://xris81.github.com/images/2.jpg)
 
 papaxrist@gmail.com tel. 6984643943
 
