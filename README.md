@@ -25,9 +25,6 @@ Year | Institution
 ### SUNERA ltd (June 2011 - Feb 2013)
 - Supervisor field engineer
 
-
-
-
-
 ## Field of expertise
+
 ## Personal interests
