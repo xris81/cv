@@ -8,8 +8,13 @@ papaxrist@gmail.com tel. 6984643943
 Year | Institution
 ---- | -------------
 **2013** | *Democritus University of Thrace, department of Electrical & Computer Engineering*
+## Foreign Languages
+Language | Certification
+---- | -------------
+English | Cambridge Proficiency in English
+German | Goethe-Zertifikat B1
 ## Seminars
-Year | Institution
+Year | Title
 ---- | -------------
 **2012** |Grid-connected photovoltaic power systems
 **2014** |Fire and electrical safety
@@ -29,5 +34,11 @@ Year | Institution
 - Supervisor field engineer
 
 ## Field of expertise
+- Industrial automation
+- Electrical circuit designs
+- 3d modeling design (Solid Edge)
 
 ## Personal interests
+- Skywatching
+- Droneflying
+- Raising kids
