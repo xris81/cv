@@ -24,3 +24,5 @@ Year | Institution
 - Maintenance enginner
 ### Olympus ltd (Sept 2019 - now)
 - R&D engineer
+## Field of expertise
+## Personal e\interests
