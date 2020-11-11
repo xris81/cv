@@ -12,7 +12,7 @@ Year | Institution
 **2014** |Fire and electrical safety
 **2020** |Atvise training
 ## Work Experience
-### Olympus ltd (Sept 2019 - Today)
+### - Olympus ltd (Sept 2019 - Today)
 - R&D engineer
 ### BIOROL ltd (Sept 2017 - Aug 2019)
 - Maintenance enginner
