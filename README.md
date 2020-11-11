@@ -12,17 +12,22 @@ Year | Institution
 **2014** |Fire and electrical safety
 **2020** |Atvise training
 ## Work Experience
-### SUNERA ltd (June 2011 - Feb 2013)
-- Supervisor field engineer
-### Municipality of Pieria (June 2013 - Dec 2015)
-- Software engineer
-### Medicines sans Frontiers (Jan 2016 - Sept 2016)
-- Log base assistant Idomeni project
-### Terre des Hommes (Oct 2016 - Aug 2017)
-- Log officer/ electrical engineer
+### Olympus ltd (Sept 2019 - Today)
+- R&D engineer
 ### BIOROL ltd (Sept 2017 - Aug 2019)
 - Maintenance enginner
-### Olympus ltd (Sept 2019 - now)
-- R&D engineer
+### Terre des Hommes (Oct 2016 - Aug 2017)
+- Log officer/ electrical engineer
+### Medicines sans Frontiers (Jan 2016 - Sept 2016)
+- Log base assistant Idomeni project
+### Municipality of Pieria (June 2013 - Dec 2015)
+- Software engineer
+### SUNERA ltd (June 2011 - Feb 2013)
+- Supervisor field engineer
+
+
+
+
+
 ## Field of expertise
-## Personal e\interests
+## Personal interests
